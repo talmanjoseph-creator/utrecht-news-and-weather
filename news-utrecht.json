@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-22T06:33:45.475Z",
+ "updated": "2026-10-22T12:23:15.395Z",
  "a": [
+  {
+   "title": "Airbnb to hosts: no more asking guests to wash the dishes",
+   "link": "https://www.dutchnews.nl/2026/10/airbnb-to-hosts-no-more-asking-guests-to-wash-the-dishes/"
+  },
+  {
+   "title": "Police shut 30 web shops linked to counterfeit pill deaths",
+   "link": "https://www.dutchnews.nl/2026/10/police-shut-30-web-shops-linked-to-counterfeit-pill-deaths/"
+  },
+  {
+   "title": "Are you financially fit for your life in the Netherlands?",
+   "link": "https://www.dutchnews.nl/2026/10/are-you-financially-fit-for-your-life-in-the-netherlands/"
+  },
+  {
+   "title": "Afghans washed up on Texel were human smuggling victims",
+   "link": "https://www.dutchnews.nl/2026/10/afghans-washed-up-on-texel-were-human-smuggling-victims/"
+  },
+  {
+   "title": "Rotterdam police arrest AI scammers over €400k thefts",
+   "link": "https://www.dutchnews.nl/2026/10/rotterdam-police-arrest-ai-scammers-over-e400k-thefts/"
+  },
+  {
+   "title": "Lost Erasmus book returns to Rotterdam after 400 years",
+   "link": "https://www.dutchnews.nl/2026/10/lost-erasmus-book-returns-to-rotterdam-after-400-years/"
+  },
+  {
+   "title": "Off the rails: a final goodbye to the Apekop train",
+   "link": "https://www.dutchnews.nl/2026/10/off-the-rails-a-final-goodbye-to-the-apekop-train/"
+  },
   {
    "title": "Health insurance could cost you €177 more next year",
    "link": "https://www.dutchnews.nl/2026/10/health-insurance-could-cost-you-e177-more-next-year/"
@@ -12,44 +40,36 @@
   {
    "title": "Feyenoord second best to Betis as Isco is on the spot for CL win",
    "link": "https://www.dutchnews.nl/2026/10/feyenoord-second-best-to-betis-as-isco-is-on-the-spot-for-cl-win/"
-  },
-  {
-   "title": "Some important websites remain down after emergency shutdowns",
-   "link": "https://www.dutchnews.nl/2026/10/government-websites-taken-offline-over-hacking-vulnerabilities/"
-  },
-  {
-   "title": "Dutch workers more likely to stay on after state retirement age",
-   "link": "https://www.dutchnews.nl/2026/10/dutch-workers-more-likely-to-stay-on-after-state-retirement-age/"
-  },
-  {
-   "title": "Minister refuses inquiry into abuse at youth home in Spain",
-   "link": "https://www.dutchnews.nl/2026/10/minister-refuses-inquiry-into-abuse-at-youth-home-in-spain/"
-  },
-  {
-   "title": "Nearly half of Dutch MPs use AI to write speeches in parliament",
-   "link": "https://www.dutchnews.nl/2026/10/nearly-half-of-dutch-mps-use-ai-to-write-speeches-in-parliament/"
-  },
-  {
-   "title": "Man arrested over discovery of woman’s remains in suitcase",
-   "link": "https://www.dutchnews.nl/2026/10/man-arrested-over-discovery-of-womans-remains-in-suitcase/"
-  },
-  {
-   "title": "PSV hold on to book narrow Champions League win in Porto",
-   "link": "https://www.dutchnews.nl/2026/10/psv-hold-on-to-book-narrow-champions-league-win-in-porto/"
-  },
-  {
-   "title": "Churches offer refugees temporary shelter to free up asylum beds",
-   "link": "https://www.dutchnews.nl/2026/10/churches-offer-refugees-temporary-shelter-to-free-up-asylum-beds/"
   }
  ],
  "b": [
   {
-   "title": "Files en vertraging rond Utrecht door ongeluk en kapot voertuig",
-   "link": "https://www.rtvutrecht.nl/nieuws/4107275/files-en-vertraging-rond-utrecht-door-ongeluk-en-kapot-voertuig"
+   "title": "Zware avondspits verwacht vanwege einde herfstvakantie en regen",
+   "link": "https://www.rtvutrecht.nl/nieuws/4107883/zware-avondspits-verwacht-vanwege-einde-herfstvakantie-en-regen"
   },
   {
-   "title": "Kwetsbare vrouw door twee mannen tot prostitutie gedwongen",
-   "link": "https://www.rtvutrecht.nl/nieuws/4107113/kwetsbare-vrouw-door-twee-mannen-tot-prostitutie-gedwongen"
+   "title": "Raadsinformatiesystemen weer online na PHP-lek",
+   "link": "https://www.rtvutrecht.nl/nieuws/4107830/raadsinformatiesystemen-weer-online-na-php-lek"
+  },
+  {
+   "title": "'Met kaasfondue gewacht op draagmoeder die niet kwam opdagen': toch zijn Aart en Sjors nu vader van twee",
+   "link": "https://www.rtvutrecht.nl/nieuws/4106941/met-kaasfondue-gewacht-op-draagmoeder-die-niet-kwam-opdagen-toch-zijn-aart-en-sjors-nu-vader-van-twee"
+  },
+  {
+   "title": "Files en vertraging op A12 door ongelukken en kapot voertuig",
+   "link": "https://www.rtvutrecht.nl/nieuws/4107275/files-en-vertraging-op-a12-door-ongelukken-en-kapot-voertuig"
+  },
+  {
+   "title": "Bijna 5000 nieuwe bedrijven in Utrecht, sterkste stijging in jaren",
+   "link": "https://www.rtvutrecht.nl/nieuws/4107266/bijna-5000-nieuwe-bedrijven-in-utrecht-sterkste-stijging-in-jaren"
+  },
+  {
+   "title": "Kwetsbare vrouw door 2 mannen tot prostitutie gedwongen",
+   "link": "https://www.rtvutrecht.nl/nieuws/4107113/kwetsbare-vrouw-door-2-mannen-tot-prostitutie-gedwongen"
+  },
+  {
+   "title": "6000 liter water per seconde kan straks van Wijk bij Duurstede naar de rest van de provincie",
+   "link": "https://www.rtvutrecht.nl/nieuws/4106972/6000-liter-water-per-seconde-kan-straks-van-wijk-bij-duurstede-naar-de-rest-van-de-provincie"
   },
   {
    "title": "Crematorium Woerden toch niet van tafel, gemeenteraad wil onderzoek",
@@ -64,32 +84,12 @@
    "link": "https://www.rtvutrecht.nl/nieuws/4106759/man-probeert-winkelhond-mee-te-nemen-eigenaar-grijpt-in"
   },
   {
+   "title": "Bewoners Utrechtse wijk al weken geteisterd door overlast: 'Lijkt wel oorlogsgebied'",
+   "link": "https://www.rtvutrecht.nl/nieuws/4106957/bewoners-utrechtse-wijk-al-weken-geteisterd-door-overlast-lijkt-wel-oorlogsgebied"
+  },
+  {
    "title": "Dit zijn de beste snacks van de Woerdense Koeiemart",
    "link": "https://www.rtvutrecht.nl/nieuws/4107023/dit-zijn-de-beste-snacks-van-de-woerdense-koeiemart"
-  },
-  {
-   "title": "Flexflitsers betrappen vooral mensen die iets te hard rijden, een enkeling maakte het heel bont",
-   "link": "https://www.rtvutrecht.nl/nieuws/4106925/flexflitsers-betrappen-vooral-mensen-die-iets-te-hard-rijden-een-enkeling-maakte-het-heel-bont"
-  },
-  {
-   "title": "Buurt koos 2 jaar geleden voor ijszaak, nu begint verbouwing",
-   "link": "https://www.rtvutrecht.nl/nieuws/4106893/buurt-koos-2-jaar-geleden-voor-ijszaak-nu-begint-verbouwing"
-  },
-  {
-   "title": "Ov-staking van morgen afgeblazen",
-   "link": "https://www.rtvutrecht.nl/nieuws/4107040/ov-staking-van-morgen-afgeblazen"
-  },
-  {
-   "title": "Grote stroomstoring in Hoogland opgelost",
-   "link": "https://www.rtvutrecht.nl/nieuws/4106998/grote-stroomstoring-in-hoogland-opgelost"
-  },
-  {
-   "title": "Gemeenten en ziekenhuis halen website uit de lucht na kritiek lek",
-   "link": "https://www.rtvutrecht.nl/nieuws/4106960/gemeenten-en-ziekenhuis-halen-website-uit-de-lucht-na-kritiek-lek"
-  },
-  {
-   "title": "Deze 25 kerkbanken gaan niet naar de stort, maar naar Oekraïne: 'Het zijn onze naasten'",
-   "link": "https://www.rtvutrecht.nl/nieuws/4104783/deze-25-kerkbanken-gaan-niet-naar-de-stort-maar-naar-oekraine-het-zijn-onze-naasten"
   }
  ]
 }
