@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-30T09:29:14.258Z",
+ "updated": "2026-10-30T16:08:54.709Z",
  "a": [
+  {
+   "title": "Fears spread over Gen Z riot plans across NL",
+   "link": "https://www.dutchnews.nl/2026/10/fears-spread-over-gen-z-riot-plans-across-nl/"
+  },
+  {
+   "title": "\"No movement\" in cabinet talks amid left-right stalemate",
+   "link": "https://www.dutchnews.nl/2026/10/no-movement-in-cabinet-talks-amid-left-right-stalemate/"
+  },
+  {
+   "title": "Government seeks to ban smoking where children congregate",
+   "link": "https://www.dutchnews.nl/2026/10/government-seeks-to-ban-smoking-where-children-congregate/"
+  },
+  {
+   "title": "Herman Brood painting added to national art collection",
+   "link": "https://www.dutchnews.nl/2026/10/herman-brood-painting-added-to-national-art-collection/"
+  },
+  {
+   "title": "French customs seize thousands of THC sweets bound for NL",
+   "link": "https://www.dutchnews.nl/2026/10/french-customs-seize-thousands-of-thc-sweets-bound-for-nl/"
+  },
+  {
+   "title": "Seven Rotterdam police officers to face trial over arrest death",
+   "link": "https://www.dutchnews.nl/2026/10/seven-rotterdam-police-officers-to-face-trial-over-arrest-death/"
+  },
+  {
+   "title": "You can pry Halloween from my cold, witchy fingers",
+   "link": "https://www.dutchnews.nl/2026/10/you-can-pry-halloween-from-my-cold-witchy-fingers/"
+  },
   {
    "title": "Asylum applications drop 13% under EU migration pact",
    "link": "https://www.dutchnews.nl/2026/10/asylum-applications-drop-13-under-eu-migration-pact/"
@@ -12,84 +40,56 @@
   {
    "title": "Cabinet gathers to weigh right-wing bloc’s new joint demands",
    "link": "https://www.dutchnews.nl/2026/10/cabinet-gathers-to-weigh-right-wing-blocs-new-joint-demands/"
-  },
-  {
-   "title": "Foreign residents: get organised, starting with dual nationality",
-   "link": "https://www.dutchnews.nl/2026/10/foreign-residents-get-organised-starting-with-dual-nationality/"
-  },
-  {
-   "title": "Shell rakes in $12B profit as Middle East war drives up prices",
-   "link": "https://www.dutchnews.nl/2026/10/shell-rakes-in-12b-profit-as-middle-east-war-drives-up-prices/"
-  },
-  {
-   "title": "Police name Serbian suspects in Tefaf jewellery heist",
-   "link": "https://www.dutchnews.nl/2026/10/police-name-serbian-suspects-in-tefaf-jewellery-heist/"
-  },
-  {
-   "title": "Four women on trial after séance at Dutch cemetery",
-   "link": "https://www.dutchnews.nl/2026/10/four-women-on-trial-after-seance-at-dutch-cemetery/"
-  },
-  {
-   "title": "Bird flu outbreaks prompt national indoor shelter order",
-   "link": "https://www.dutchnews.nl/2026/10/bird-flu-outbreaks-prompt-national-indoor-shelter-order/"
-  },
-  {
-   "title": "Mass starfish stranding on Noordwijk beach",
-   "link": "https://www.dutchnews.nl/2026/10/mass-starfish-stranding-on-noordwijk-beach/"
-  },
-  {
-   "title": "Jetten backpedals on plans to tax the royals",
-   "link": "https://www.dutchnews.nl/2026/10/jetten-backpedals-on-plans-to-tax-the-royals/"
   }
  ],
  "b": [
   {
-   "title": "Steen door de ruit bij brandweerkazerne",
-   "link": "https://www.rtvutrecht.nl/nieuws/4111327/steen-door-de-ruit-bij-brandweerkazerne"
+   "title": "Geen FC Utrecht-fans mee naar Telstar na ongeregeldheden bekerwedstrijd",
+   "link": "https://www.rtvutrecht.nl/sport/4111540/geen-fc-utrecht-fans-mee-naar-telstar-na-ongeregeldheden-bekerwedstrijd"
   },
   {
-   "title": "Wie wordt de nieuwe burgemeester van Soest? 'We zoeken jou'",
-   "link": "https://www.rtvutrecht.nl/nieuws/4111231/wie-wordt-de-nieuwe-burgemeester-van-soest-we-zoeken-jou"
+   "title": "VIDEO: Panda Lang Yue van Rhenen naar China: 'Ze blijft altijd een beetje van ons'",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111447/video-panda-lang-yue-van-rhenen-naar-china-ze-blijft-altijd-een-beetje-van-ons"
+  },
+  {
+   "title": "Anthony Correia speelt zondag tegen club van zijn hart: 'Maar nu ben ik trainer van FC Utrecht en moeten we gewoon van Telstar winnen'",
+   "link": "https://www.rtvutrecht.nl/sport/4111427/anthony-correia-speelt-zondag-tegen-club-van-zijn-hart-maar-nu-ben-ik-trainer-van-fc-utrecht-en-moeten-we-gewoon-van-telstar-winnen"
+  },
+  {
+   "title": "RTV Utrecht botst met gemeente Utrecht over duwincident: 'Feitelijk onjuist' en 'teleurstellend'",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111402/rtv-utrecht-botst-met-gemeente-utrecht-over-duwincident-feitelijk-onjuist-en-teleurstellend"
+  },
+  {
+   "title": "Kop-staartbotsing op A28, 1 rijstrook afgesloten",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111524/kop-staartbotsing-op-a28-1-rijstrook-afgesloten"
+  },
+  {
+   "title": "2 autokrakers opgepakt bij De Meern, vluchtauto klemgereden",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111393/2-autokrakers-opgepakt-bij-de-meern-vluchtauto-klemgereden"
+  },
+  {
+   "title": "Protest tegen opzetten probleemwolf Bram: 'Naturalis maakt van moord gezellig familiedagje'",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111405/protest-tegen-opzetten-probleemwolf-bram-naturalis-maakt-van-moord-gezellig-familiedagje"
+  },
+  {
+   "title": "112 nieuws: Vluchtauto auto-inbrekers klemgereden | Gewonde naar het ziekenhuis bij ongeluk",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111316/112-nieuws-vluchtauto-auto-inbrekers-klemgereden-gewonde-naar-het-ziekenhuis-bij-ongeluk"
+  },
+  {
+   "title": "Poezen achtergelaten met emotionele brief: ‘Ik kan de medische kosten niet betalen’",
+   "link": "https://www.rtvutrecht.nl/nieuws/4111227/poezen-achtergelaten-met-emotionele-brief-ik-kan-de-medische-kosten-niet-betalen"
+  },
+  {
+   "title": "Villa Expertcare en eigenaar op het matje geroepen in Tweede Kamer: 'Teleurstellend en hallucinant'",
+   "link": "https://www.rtvutrecht.nl/nieuws/4110846/villa-expertcare-en-eigenaar-op-het-matje-geroepen-in-tweede-kamer-teleurstellend-en-hallucinant"
   },
   {
    "title": "A27 vanavond en in weekend weer dicht",
    "link": "https://www.rtvutrecht.nl/nieuws/4111057/a27-vanavond-en-in-weekend-weer-dicht"
   },
   {
-   "title": "Weggebruikers opgelet: dichte mist in de provincie",
-   "link": "https://www.rtvutrecht.nl/nieuws/4111245/weggebruikers-opgelet-dichte-mist-in-de-provincie"
-  },
-  {
    "title": "Supporters van FC Utrecht raken slaags na bekerduel",
    "link": "https://www.rtvutrecht.nl/nieuws/4111236/supporters-van-fc-utrecht-raken-slaags-na-bekerduel"
-  },
-  {
-   "title": "Jos (87) werd 'per ongeluk' wereldkampioen hockey",
-   "link": "https://www.rtvutrecht.nl/nieuws/4111104/jos-87-werd-per-ongeluk-wereldkampioen-hockey"
-  },
-  {
-   "title": "Vergunning asielopvang Soestdijk blijft, stichting gaat in hoger beroep",
-   "link": "https://www.rtvutrecht.nl/nieuws/4111120/vergunning-asielopvang-soestdijk-blijft-stichting-gaat-in-hoger-beroep"
-  },
-  {
-   "title": "Politie pakt verdachte op na diefstal bij brandweer",
-   "link": "https://www.rtvutrecht.nl/nieuws/4111020/politie-pakt-verdachte-op-na-diefstal-bij-brandweer"
-  },
-  {
-   "title": "Doorbraak bij cold-cases: komt ook het Heulmeisje in beeld?",
-   "link": "https://www.rtvutrecht.nl/nieuws/4110743/doorbraak-bij-cold-cases-komt-ook-het-heulmeisje-in-beeld"
-  },
-  {
-   "title": "Deze gemeente krijgt bijna half miljoen extra door opvang van meer asielzoekers",
-   "link": "https://www.rtvutrecht.nl/nieuws/4110387/deze-gemeente-krijgt-bijna-half-miljoen-extra-door-opvang-van-meer-asielzoekers"
-  },
-  {
-   "title": "Gemeenten doen niet genoeg om erfgoed te behouden: 'Dit is een noodoproep'",
-   "link": "https://www.rtvutrecht.nl/nieuws/4110442/gemeenten-doen-niet-genoeg-om-erfgoed-te-behouden-dit-is-een-noodoproep"
-  },
-  {
-   "title": "Man (46) slaat op de vlucht voor politie, wordt aangehouden in Amersfoort",
-   "link": "https://www.rtvutrecht.nl/nieuws/4110829/man-46-slaat-op-de-vlucht-voor-politie-wordt-aangehouden-in-amersfoort"
   }
  ]
 }
